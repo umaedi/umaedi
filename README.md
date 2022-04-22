@@ -1,5 +1,5 @@
 👋 Hi, saya @umaedi
-<p>Saya backend developer. Saya menghabiskan seluruh hari saya bereksperimen dengan PHP framwork Laravel x Livewire. <br>Saya membangun website yang intraktif dan informatif. Saya selalu berusaha untuk melakukannya dengan baik</p>
+<p>Saya backend developer. Saya menghabiskan seluruh hari saya bereksperimen dengan PHP framwork Laravel x JavaScript. <br>Saya membangun website yang intraktif dan informatif. Saya selalu berusaha untuk melakukannya dengan baik</p>
 📫 hubungi saya humaedi.kh.99@gmail.com
 
 <!---
